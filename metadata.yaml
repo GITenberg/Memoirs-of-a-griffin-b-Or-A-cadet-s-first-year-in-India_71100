@@ -1,11 +1,16 @@
 _repo: Memoirs-of-a-griffin-b-Or-A-cadet-s-first-year-in-India_71100
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71100-h/images/cover.jpg
 creator:
   author:
     agent_name: Bellew, Francis John
     gutenberg_agent_id: '56074'
     url: http://www.gutenberg.org/2009/agents/56074
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71100#Memoirs-of-a-griffin-b-Or-A-cadet-s-first-year-in-India
 gutenberg_issued: '2023-07-03'
 identifiers:
   gutenberg: '71100'
